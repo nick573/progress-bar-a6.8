@@ -1,0 +1,27 @@
+.button-gr {
+	display: flex;
+	justify-content: center;
+	justify-content: space-between;
+	margin-top: 15px;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-size: 30px;
+}
+
+.btn1 {
+	background: #79D7CF;
+	border: 0;
+	border-radius: 5px;
+}
+
+.btn2 {
+	background: #F4A955;
+	border: 0;
+	border-radius: 5px;
+}
+
+.btn3 {
+	background: #877BD5;
+	border: 0;
+	border-radius: 5px;
+}
